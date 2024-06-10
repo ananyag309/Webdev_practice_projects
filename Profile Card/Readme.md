@@ -4,6 +4,8 @@ Welcome to my profile project! This project showcases my skills and interests us
 
 ## Preview
 
+![Profile Card Preview](https://github.com/ananyag309/Webdev_practice_projects/blob/main/Profile%20Card/pf.PNG)
+
 
 ## Getting Started
 
