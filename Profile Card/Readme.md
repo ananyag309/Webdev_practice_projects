@@ -4,8 +4,6 @@ Welcome to my profile project! This project showcases my skills and interests us
 
 ## Preview
 
-![Profile Card Preview]
-
 
 ## Getting Started
 
